@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867992731472",
+    "project_id": "siahaty-41a5d",
+    "storage_bucket": "siahaty-41a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867992731472:android:b42fd2bcd90080afb27655",
+        "android_client_info": {
+          "package_name": "com.example.achref_siaha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIbG4o5p6t1cQO7953a-s9Qkvi-R7qFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
